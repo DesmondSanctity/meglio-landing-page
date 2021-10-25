@@ -1,7 +1,7 @@
 {
-  "name": "krypton",
-  "version": "4.0.0",
-  "description": "Krypton - Bulma + Alpine JS ICO/Crypto Starter",
+  "name": "meglio",
+  "version": "1.0.0",
+  "description": "Meglio - Bulma + Alpine JS ICO/Crypto Landing Website",
   "main": "gulpfile.js",
   "dependencies": {
     "@ryangjchandler/spruce": "^2.4.0",
@@ -68,7 +68,7 @@
     "bulmacss",
     "sass"
   ],
-  "author": "Css Ninja",
+  "author": "Desmond Obisi",
   "license": "Commercial",
   "bugs": {
     "url": "https://github.com/"

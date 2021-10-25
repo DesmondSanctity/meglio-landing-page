@@ -1,4 +1,4 @@
-# 👋 Krypton
+# 👋 Meglio
 > Krypton is a free ICO / Crypto template built by [cssninjaStudio](https://cssninja.io).
 
 ![Screenshot](https://media.cssninja.io/products/krypton/product.png "Krypton")
@@ -39,12 +39,3 @@ If you've found an issue or a bug, you can report it in the issues section of th
 * steps to reproduce
 * Already tried fixes (if relevant)
 
-## 🎉 More
-
-You liked Krypton? Check also our other premium Envato bulma themes [Css Ninja](https://cssninja.io/themes).
-
-Find more premium bulma templates on [Css Ninja](https://cssninja.io/category/all).
-
-## 🚀 About Us
-
-Css Ninja is a web design studio. We build handcrafted and polished templates that will give some hype to your startup or to your next project.
