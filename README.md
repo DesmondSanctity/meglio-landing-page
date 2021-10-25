@@ -1,12 +1,12 @@
 # 👋 Meglio
-> Krypton is a free ICO / Crypto template built by [cssninjaStudio](https://cssninja.io).
+> Meglio is an ICO / Crypto landing page built by [Dex](https://github.com/DesmondSanctity).
 
-![Screenshot](https://media.cssninja.io/products/krypton/product.png "Krypton")
+![Screenshot](https://media.cssninja.io/products/krypton/product.png "Meglio")
 
-## ✌️ preview
+## ✌️ Preview
 
 Check out the live demo by clicking [here](https://cssninjastudio.github.io/krypton/). 
-Krypton is built with [Bulma](https://bulma.io) and [Alpine JS](https://github.com/alpinejs/alpine).
+Meglio is built with [Bulma](https://bulma.io) and [Alpine JS](https://github.com/alpinejs/alpine).
 
 ## 👍 Features
 

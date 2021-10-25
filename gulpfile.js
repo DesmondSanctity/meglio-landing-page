@@ -187,6 +187,14 @@ function devClean() {
 
 exports.setup = series(setupBulma);
 
+exports.prod = series(
+  devClean, // Clean Dist Folder
+  resetPages,
+  parallel(copyFonts, concatCssPlugins, compileSCSS, javascriptBuild, devImages, compileHTML),
+  livePreview, // Live Preview Build
+  watchFiles // Watch for Live Changes
+);
+
 exports.default = series(
   devClean, // Clean Dist Folder
   resetPages,
