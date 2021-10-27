@@ -53,8 +53,8 @@
   },
   "scripts": {
     "dev": "gulp",
-    "build": "gulp prod --output dist",
-    "prod": "gulp prod --output dist",
+    "build": "gulp prod",
+    "prod": "gulp prod",
     "preinstall": "npx npm-force-resolutions"
   },
   "repository": {
